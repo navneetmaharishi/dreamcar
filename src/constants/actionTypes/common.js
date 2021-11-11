@@ -1,0 +1,8 @@
+export const FETCH_ALL_CITY = "FETCH_ALL_CITY";
+export const SELECTED_CITY = "SELECTED_CITY";
+export const SELECTED_CITY_CLEAR = "SELECTED_CITY_CLEAR";
+export const SELECTED_RENT_DATE = "SELECTED_RENT_DATE";
+export const START_DATE = "START_DATE";
+export const END_DATE = "END_DATE";
+export const IS_LOGIN = "IS_LOGIN";
+export const LOGIN_DETAILS = "LOGIN_DETAILS";
